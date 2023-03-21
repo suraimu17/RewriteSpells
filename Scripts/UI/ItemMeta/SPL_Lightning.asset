@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8756c4f895a21c94bbb0de5bbe37543a, type: 3}
+  m_Name: SPL_Lightning
+  m_EditorClassIdentifier: 
+  kindOfItem: 1
+  information: "\u5BFE\u8C61\u306B\u5411\u304B\u3063\u3066\u843D\u96F7\u3092\u843D\u3068\u3059\u3002\u7BC4\u56F2\u9B54\u6CD5\u653B\u6483\u3002"
+  itemName: "\u30E9\u30A4\u30C8\u30CB\u30F3\u30B0"
+  itemImage: {fileID: 21300000, guid: c8fcad686fe93814c9684c4aaae54328, type: 3}

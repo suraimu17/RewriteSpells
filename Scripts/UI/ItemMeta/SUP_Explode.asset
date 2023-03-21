@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8756c4f895a21c94bbb0de5bbe37543a, type: 3}
+  m_Name: SUP_Explode
+  m_EditorClassIdentifier: 
+  kindOfItem: 2
+  information: "\u5C04\u6483\u9B54\u6CD5\u7740\u5F3E\u6642\u306B\u7206\u767A\u3059\u308B\u3088\u3046\u306B\u306A\u308B\u3002\u6D88\u8CBBMP30%\u5897\u52A0\u3002"
+  itemName: "\u30A8\u30AF\u30B9\u30D7\u30ED\u30FC\u30C9"
+  itemImage: {fileID: 21300000, guid: 70e92df91699f664ab5bad7bf4723022, type: 3}
