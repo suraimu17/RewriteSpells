@@ -26,5 +26,8 @@ https://gameparade.creators-guild.com/works/406
 
 ※有料アセットを含むため、ソースコードのみ公開しています。
 
+#### 使用ライブラリ
+UniRx
 
+UniTask
 
